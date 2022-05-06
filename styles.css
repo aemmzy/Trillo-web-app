@@ -324,7 +324,7 @@ span{
 }
 
 .write1 p,li{
-    font-size:2rem ;
+    font-size:1.5rem ;
 }
 .write1-list{
     list-style: none;
@@ -602,5 +602,7 @@ span{
        margin-top: 3rem;
        background-color:rgb(238, 236, 236) ; 
     }
+
+  
 }
 
