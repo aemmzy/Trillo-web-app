@@ -326,6 +326,11 @@ span{
 .write1 p,li{
     font-size:1.3rem ;
 }
+
+.write1 p{
+    font-size:1.3rem ;
+}
+
 .write1-list{
     list-style: none;
     margin-top: 3rem;
